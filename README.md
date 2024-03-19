@@ -53,9 +53,7 @@ admin.site.register(Train, TrainAdmin)
 
 ## OUTPUT
 
-![image](https://github.com/Wkrish28/ORM/assets/144295230/ac2a52a1-078f-46c3-97af-bf9a59dd07c7)
-
-
+![image](https://github.com/Wkrish28/ORM/assets/144295230/20979dc0-d3fd-4269-ae6a-c27d2e250bfa)
 
 
 ## RESULT
